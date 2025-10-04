@@ -1,4 +1,4 @@
-# 📋 Task Management System
+<img width="940" height="858" alt="image" src="https://github.com/user-attachments/assets/0e869f8a-d873-4f2a-b7cd-5d9b7cfbd9d3" /># 📋 Task Management System
 
 > A modern, full-stack task management application with beautiful UI and robust authentication
 
@@ -24,13 +24,17 @@ A feature-rich task management application built with the MERN stack (MongoDB, E
 <div align="center">
 
 ### Dashboard
-![Dashboard Preview](https://via.placeholder.com/800x400/667eea/ffffff?text=Dashboard+Preview)
+![Dashboard Preview](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e6f4930b-905c-4067-8330-757b3e3f4367" />
+)
 
 ### Authentication
 <div style="display: flex; gap: 20px;">
   
-![Login Preview](https://via.placeholder.com/400x300/4f46e5/ffffff?text=Login+Page)
-![Register Preview](https://via.placeholder.com/400x300/7c3aed/ffffff?text=Register+Page)
+![Login Preview](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e6e5bbaa-fed1-49f2-a76e-7c7521b8130a" />
+)
+![Register Preview](<img width="940" height="858" alt="image" src="https://github.com/user-attachments/assets/b967e70c-d3a0-4985-92f9-f72bf838ff0a" />
+)
+
 
 </div>
 
