@@ -1,4 +1,4 @@
-<img width="940" height="858" alt="image" src="https://github.com/user-attachments/assets/0e869f8a-d873-4f2a-b7cd-5d9b7cfbd9d3" /># 📋 Task Management System
+# 📋 Task Management System
 
 > A modern, full-stack task management application with beautiful UI and robust authentication
 
